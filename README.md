@@ -11,3 +11,7 @@
 kan give problem hvis man har slået firewall til.
 
 - localhost:3002
+
+Author:
+
+Michael Trans
