@@ -15,7 +15,7 @@ kan give problem hvis man har slået firewall til.
 
 - localhost:3002
 
-#Socket.io
+# Socket.io
 
 Et library/module til at lave real-time apps. Fx kan man lave en web-chat.
 
