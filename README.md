@@ -15,6 +15,13 @@ kan give problem hvis man har slået firewall til.
 
 - localhost:3002
 
+#Socket.io
+
+Et library/module til at lave real-time apps. Fx kan man lave en web-chat.
+
+"Socket.IO enables real-time, bidirectional and event-based communication.
+It works on every platform, browser or device, focusing equally on reliability and speed."
+
 Author:
 
 Michael Trans
